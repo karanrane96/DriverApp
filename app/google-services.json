@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "880794680365",
+    "firebase_url": "https://rare-journey-121318.firebaseio.com",
+    "project_id": "rare-journey-121318",
+    "storage_bucket": "rare-journey-121318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880794680365:android:34505e6275de4bf4",
+        "android_client_info": {
+          "package_name": "com.ubertest.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880794680365-u7qgr6i14flegufs31p1eon6o4ie3s8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ubertest.com",
+            "certificate_hash": "23378322238237cd68315c08466aaf2816987dec"
+          }
+        },
+        {
+          "client_id": "880794680365-6vnil87tnod0en293cg4q98h13ivbmfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJsP_AlyTCmimlLiGrsYcHylE47gV96b4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880794680365-6vnil87tnod0en293cg4q98h13ivbmfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
